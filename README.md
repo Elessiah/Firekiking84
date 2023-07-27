@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Firekiking84, Code is a passion and I hope my future profession.
-- 👀 I’m interested in new technologies and in the 5.0 industrial revolution.
-- 🌱 I’m currently learning C language at the Ecole Supérieure du Numérique 89.
+- 🌱 I’m currently learning C language.
 - 💞️ I’m looking for an apprenticeship contract.
 - 📫 How to reach me :
          - discord : Firekiking#3537

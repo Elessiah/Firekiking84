@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Firekiking84, Code is a passion and I hope my future profession.
 - 🌱 I’m currently learning C++ language and most of all the web language : Html, css, PHP, javascript.
-- 💞️ I’m looking for an apprenticeship contract.
+- 💞️ I’m looking for an internship contract.
 - 📫 How to reach me :
-         - discord : Firekiking#3537
+         - discord : firekiking
          - e-mail : keryan.h@outlook.fr
 
 <!---

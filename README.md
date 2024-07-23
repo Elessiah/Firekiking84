@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C++ language and most of all the web language : Html, css, PHP, javascript.
 - 💞️ I’m looking for an internship contract.
 - 📫 How to reach me :
-         - discord : firekiking
+         - discord : elessiah
          - e-mail : keryan.h@outlook.fr
 
 <!---

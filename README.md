@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Firekiking84, Code is a passion and I hope my future profession.
-- 🌱 I’m currently learning C++ language and most of all the web language : Html, css, PHP, javascript.
+- 💼 Currently working on the digital tools of the Marvel Rivals esport.
 - 💞️ I’m looking for an internship contract.
 - 📫 How to reach me :
          - discord : elessiah
